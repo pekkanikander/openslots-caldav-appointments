@@ -1,0 +1,7 @@
+{
+  "about": "Written by the setup wizard each time it stores this fork's configuration. The configuration itself lives in the fork's encrypted Actions secrets and variables, never in this repository; nothing private is recorded here.",
+  "repository": "pekkanikander/openslots-caldav-appointments",
+  "forked_from": "parantaja-fi/openslots-caldav-appointments",
+  "forked_at": "2026-10-11T10:15:45Z",
+  "stored_at": "2026-10-11T10:33:01.922Z"
+}
